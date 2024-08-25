@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a90727c.css",
-    "main.js": "/static/js/main.55439f6a.js",
-    "static/js/453.fde8cee3.chunk.js": "/static/js/453.fde8cee3.chunk.js",
-    "index.html": "/index.html",
-    "main.7a90727c.css.map": "/static/css/main.7a90727c.css.map",
-    "main.55439f6a.js.map": "/static/js/main.55439f6a.js.map",
-    "453.fde8cee3.chunk.js.map": "/static/js/453.fde8cee3.chunk.js.map"
+    "main.css": "/sports-bet-martingale-calculator/static/css/main.7a90727c.css",
+    "main.js": "/sports-bet-martingale-calculator/static/js/main.5f957c4a.js",
+    "static/js/453.fde8cee3.chunk.js": "/sports-bet-martingale-calculator/static/js/453.fde8cee3.chunk.js",
+    "index.html": "/sports-bet-martingale-calculator/index.html",
+    "main.7a90727c.css.map": "/sports-bet-martingale-calculator/static/css/main.7a90727c.css.map",
+    "main.5f957c4a.js.map": "/sports-bet-martingale-calculator/static/js/main.5f957c4a.js.map",
+    "453.fde8cee3.chunk.js.map": "/sports-bet-martingale-calculator/static/js/453.fde8cee3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a90727c.css",
-    "static/js/main.55439f6a.js"
+    "static/js/main.5f957c4a.js"
   ]
 }
