@@ -1,0 +1,34 @@
+.Calculate{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 70%;
+    width: auto;
+    height: auto;
+    margin-top: 5rem;
+}
+
+.Calculate label{
+    text-align: left;
+    display: block;
+    color: aliceblue;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.Calculate input{
+    width: 100%;
+    min-height: 2rem;
+    box-sizing: border-box;
+    font-size: 2rem;
+}
+
+@media (max-width: 700px) {
+    .Calculate label {
+        font-size: 5vw; 
+    }
+
+    .Calculate input {
+        font-size: 5vw; 
+    }
+  }
